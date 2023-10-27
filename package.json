@@ -1,0 +1,21 @@
+{
+  "name": "image-gallery",
+  "version": "1.0.0",
+  "description": "Image Gallery mini-project from my Tailwind course.",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "prettier": "^3.0.3",
+    "prettier-plugin-tailwindcss": "^0.5.6",
+    "tailwindcss": "^3.3.5",
+    "vite": "^4.5.0"
+  }
+}
